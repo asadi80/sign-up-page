@@ -4,7 +4,7 @@
 Create singn up form using HTML and CSS.
 
 ## Screenshot
-![Screenshot 2022-08-16 194835](https://user-images.githubusercontent.com/89751266/185023640-3e7f858d-c9d4-4932-a1ed-81c8a49cdf8f.png)
+![Screenshot 2022-08-16 200246](https://user-images.githubusercontent.com/89751266/185025458-7931716d-4b40-41c6-bf52-d37507fb6bee.png)
 
 ## Built with:
 ![html](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=30)

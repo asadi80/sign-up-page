@@ -15,7 +15,6 @@ h2{
     font-size: 50px;
 }
 
-
 .input{
     margin-top: 15px;
     width: 91%;
@@ -31,14 +30,20 @@ h2{
     border: solid gray;
 }
 
-    
-
 .btn{
     text-align: center;
 }
 input:focus {
 	outline: none;
   	border: 1px solid rgb(120, 127, 235);
+}
+
+.password{
+    width: 45%;
+    height: 30px;
+    border-radius: 5px;
+    border: solid gray;
+    margin-top: 15px;
 }
 button{
     width: 150px;
@@ -73,4 +78,9 @@ span{
     .singn-in{
         margin-top: 5px;
     }
+    .password{
+       
+        width: 90%;
+    }
+    
 }
